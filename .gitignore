@@ -1,9 +1,9 @@
 /config
 lastrun.log
 /cert-*
-/source.d
+/source.d/*
 !/source.d/.readme.txt
-/post-download.d
+/post-download.d/*
 !/post-download.d/.readme.txt
 !/post-download.d/nginx.sh
 

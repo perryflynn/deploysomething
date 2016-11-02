@@ -1,0 +1,7 @@
+Place plain text files here.
+
+echo "thedeploymenttoken" > sub.domain.example.com
+
+Filename = Subfolder Name
+Content = Subfolder on LE deployment server
+
