@@ -1,0 +1,5 @@
+
+LESRV=https://le.srv.example.com
+SRCD=source.d
+HOOKD=post-download.d
+
